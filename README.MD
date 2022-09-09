@@ -1,21 +1,23 @@
 # SHOPIFY Clone (Mobile Responsive)
 
-This is SHOPIFY Clone project of Web Development. I have developed this project from scratch just using html and tailwind CSS. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). I used tailwind CSS in this project where I have learnt a lot of things such as flex, grid,footer,.
+This is _**SHOPIFY Clone project**_ of Web Development. I have developed this project from scratch just using html and tailwind CSS. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). I used tailwind CSS in this project where I have learnt a lot of things such as **flex, grid,footer**.
+
+> [Check my live project here](https://shopify-clone-by-noman.vercel.app/)
 
 
 NAVBAR:
-![Project2](/sc/nav.PNG "proj2 image")
+![Project shopify](/sc/nav.PNG "proj shopify image")
 
 BODY:
-![Project2](/sc/body1.PNG)
-![Project2](/sc/body2.PNG)
+![Project shopify](/sc/body1.PNG)
+![Project shopify](/sc/body2.PNG)
 
 FOOTER:
-![Project2](/sc/foot.PNG )
+![Project shopify](/sc/foot.PNG )
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
 ![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
 
